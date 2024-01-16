@@ -1,0 +1,17 @@
+button{
+    width: 200px;
+    background-color: rgb(253, 208, 156);
+    border: 1px solid black;
+}
+
+h1.no-rain{
+    color: orange;
+}
+
+h1.rain{
+    color: blue;
+}
+
+h1.sun{
+    color:brown;
+}
