@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: justify;
+}
+
+.show{
+  padding: 5px;
+  font-size: 1.5em;
+}
+
+.color-true{
+  color: green;
+  font: 1em;
+}
+
+.color-false{
+  color: red;
+  font: 1em;
+}
+
+h2, h4{
+  margin: auto;
+}
